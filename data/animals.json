@@ -135,6 +135,16 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "mark",
+      "species": "liger",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
